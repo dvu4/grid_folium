@@ -12,7 +12,7 @@ The map contains the following layers:
 
 ![Farmers Market Finder Demo](data/folium.gif)
 
-<img src=data/folium.gif  height="254" width="480">
+<img src=data/folium.gif  height="508" width="960">
  
 ## Leaflet map via Folium.
 [Github](https://github.com/python-visualization/folium)
