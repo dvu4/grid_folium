@@ -12,7 +12,7 @@ The map contains the following layers:
 
 
 
-<img src=data/folium.gif width="48">
+<img src=data/folium.gif width="80">
 
 ## Leaflet map via Folium.
 [Github](https://github.com/python-visualization/folium)
