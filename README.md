@@ -10,7 +10,7 @@ The map contains the following layers:
 * damage status
 * flood, ice, wind weather
 
-![Farmers Market Finder Demo](data/folium.gif){:height="700px" width="400px"}
+![Farmers Market Finder Demo](data/folium.gif width="200")
 
 ## Leaflet map via Folium.
 [Github](https://github.com/python-visualization/folium)
