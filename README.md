@@ -14,6 +14,8 @@ The map contains the following layers:
 
 <img src=data/folium.gif  height="508" width="960">
  
+ 
+ 
 ## Leaflet map via Folium.
 [Github](https://github.com/python-visualization/folium)
 
