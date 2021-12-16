@@ -1,6 +1,6 @@
 # Grid Map with Folium
 
-Visualize the Electric Grid and Weather data in Folium
+The project helps in modernizing Distribution System Restoration to achieve Grid Resiliency against Extreme Weather Events and visualizing the Electric Grid and Weather data in Folium
 
 
 ## Map 
